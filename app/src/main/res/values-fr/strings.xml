@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calculateur</string>
+    <string name="titre">Calculateur</string>
+    <string name="saisie">Saisir les deux opérandes</string>
+    <string name="txtop1">1er</string>
+    <string name="txtop2">2nd</string>
+    <string name="op1">1er opérande</string>
+    <string name="op2">2nd opérande</string>
+    <string name="neg">(-)</string>
+    <string name="txtop">Choisir une opération</string>
+    <string name="add">Addition</string>
+    <string name="sous">Soustraction</string>
+    <string name="mul">Multiplication</string>
+    <string name="div">Division</string>
+    <string name="cal">Calculer</string>
+    <string name="res">Résultat =</string>
+    <string name="txtv">Login</string>
+    <string name="edtxt">Enter your mail</string>
+    <string name="pass">Enter your password</string>
+    <string name="btn">Se Connecter</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
